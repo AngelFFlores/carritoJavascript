@@ -1,0 +1,22 @@
+ [
+    {
+        "id":1,
+        "nombre":"cafe",
+         "precio":"12",
+        "img": "https://s1.eestatic.com/2017/02/13/cocinillas/Cocinillas_193495389_116293002_1024x576.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"cafe expreso",
+        "precio":"16",
+        "img": "https://okdiario.com/img/2018/11/23/como-se-hace-el-cafe-expreso-perfecto.jpg"
+    },
+    {
+         "id":3,
+        "nombre":"Capuchino",
+        "precio":"22",
+        "img": "https://epvenezuela.com/wp-content/uploads/2020/11/Capuchino-1024x576.jpg"
+    }
+]
+
+
